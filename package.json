@@ -1,9 +1,9 @@
 {
   "name": "adventure_game_cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "app.js",
-	"type": "module",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,11 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^20.12.8",
     "chalk": "^5.3.0",
     "inquirer": "^9.2.20"
   },
   "devDependencies": {
-    "@types/inquirer": "^9.0.7"
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.10"
   }
 }
